@@ -1,5 +1,6 @@
   🐍 Python_Program
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
   
 This repository contains a Python program built to perform a specific task efficiently.
