@@ -13,3 +13,6 @@ Any external libraries are listed in the [requirements.txt](https://pip.pypa.io/
 The program is modular and easy to modify or extend.
 Ideal for students, hobbyists, or developers exploring Python.
 Feel free to fork, contribute, or suggest improvements!
+
+First thing comes in mind what is python?
+
