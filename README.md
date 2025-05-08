@@ -14,7 +14,7 @@ The program is modular and easy to modify or extend.
 Ideal for students, hobbyists, or developers exploring Python.
 Feel free to fork, contribute, or suggest improvements!
 
-First thing comes in mind what is python?
+-> First thing comes in mind what is python?
 
 Python is a high-level, general-purpose programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
 
