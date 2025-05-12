@@ -31,5 +31,30 @@ Extensive libraries: Python has thousands of libraries like pandas, numpy, flask
 Cross-platform: Python runs on Windows, macOS, Linux, and even embedded devices.
 
 
+# Setup Instructions
+
+
+Provide a step-by-step guide for setting up the project locally.
+Example:-
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbhishekShah272002/Python_Program.git
+
+
+2. Navigate to the project directory:
+
+cd Python_Program
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Run the program:
+
+python main.py
+
+
 
 # Thank You
