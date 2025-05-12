@@ -32,4 +32,4 @@ Cross-platform: Python runs on Windows, macOS, Linux, and even embedded devices.
 
 
 
-# Thanks
+# Thank You
