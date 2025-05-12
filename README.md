@@ -40,7 +40,7 @@ Example:-
 ## Setup
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/AbhishekShah272002/Python_Program.git]
+   (git clone https://github.com/AbhishekShah272002/Python_Program.git)
 
 
 2. Navigate to the project directory:
