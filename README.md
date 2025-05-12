@@ -29,3 +29,7 @@ Versatile: Used in web development, data analysis, machine learning, automation,
 Extensive libraries: Python has thousands of libraries like pandas, numpy, flask, and tensorflow that help with everything from math to web apps.
 
 Cross-platform: Python runs on Windows, macOS, Linux, and even embedded devices.
+
+
+
+# Thank You
