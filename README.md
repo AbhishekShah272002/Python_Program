@@ -4,7 +4,7 @@
 
   
 This repository contains a Python program built to perform a specific task efficiently.
-It uses fundamental concepts like loops, functions, conditionals, and file handling. 
+It uses fundamental concepts like loops, functions, conditionals, and file handling.  
 The project is beginner-friendly and serves as a great learning resource.
 The code is clean, well-structured, and easy to understand.
 Helpful comments are included to guide you through the logic.
