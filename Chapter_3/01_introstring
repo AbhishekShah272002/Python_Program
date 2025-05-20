@@ -1,1 +1,20 @@
-1
+# This is a string in Python
+# Strings are a sequence of characters enclosed in quotes
+#using single quotes
+a = 'Hello World'
+s =type(a)
+print(s)  # <class 'str'>
+nameshort = a[0:3]  # slicing the string to get the first three characters
+print(nameshort)  # prints the first three characters of the string
+character = a[0]  # getting the first character of the string
+print(character)  # prints the first character of the string
+
+#using double quotes
+b = "Hello World"
+t = type(b)
+print(t)  # <class 'str'>
+
+#using triple quotes
+c = '''Hello World'''
+d = type(c) 
+print(d)  # <class 'str'>
