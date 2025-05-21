@@ -1,0 +1,18 @@
+# Negative Slicing in Python
+# Negative slicing is a technique in Python that allows you to access elements from the end of a sequence (like a string, list, or tuple) using negative indices.
+# In Python, the last element of a sequence has an index of -1, the second last has an index of -2, and so on.
+# This is useful when you want to access elements from the end of a sequence without knowing its length.
+name = "Abhishek"
+
+print(name[0:3])  # prints the first three characters of the string
+print(name[-1]) # prints the last character of the string
+print(name[7])  # prints the fourth character of the string
+print(name[-3])  # prints the third character from the end of the string
+print(name[1:]) # prints the string from index 1 to the end
+print(name[1:8])  # prints the string from index 1 to index 7
+print(name[1:5:2])  # prints the string from index 1 to index 5 with a step of 2 
+print(name[::2])  # prints the string with a step of 2
+print(name[::-1])  # prints the string in reverse order
+print(name[::-2])  # prints the string in reverse order with a step of 2
+print(name[:-1]) # prints the string from the beginning to the second last character
+print(name[-1:]) # prints the last character of the string 
