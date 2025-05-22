@@ -1,1 +1,13 @@
-x
+
+# String Functions
+# String functions are built-in functions that are used to manipulate strings in Python. They allow you to perform various operations on strings, such as searching, replacing, and formatting.
+# These functions are very useful when you need to process or analyze text data. Here are some commonly used string functions in Python:
+name = "Abhishek"
+
+print(len(name))  # len() is a built-in function that returns the length of the string  
+print(name.endswith("k"))  # endswith() is a built-in function that checks if the string ends with the specified value
+print(name.startswith("A"))  # startswith() is a built-in function that checks if the string starts with the specified value 
+print(name.find("h"))  # find() is a built-in function that returns the index of the first occurrence of the specified value
+print(name.count("h"))  # count() is a built-in function that returns the number of occurrences of the specified value in the string
+print(name.replace("h", "H"))  # replace() is a built-in function that replaces the specified value with the specified value in the string
+print(name.upper())  # upper() is a built-in function that converts the string to uppercase
