@@ -10,3 +10,4 @@ print(name.find("h"))  # find() is a built-in function that returns the index of
 print(name.count("h"))  # count() is a built-in function that returns the number of occurrences of the specified value in the string
 print(name.replace("h", "H"))  # replace() is a built-in function that replaces the specified value with the specified value in the string
 print(name.upper())  # upper() is a built-in function that converts the string to uppercase
+
