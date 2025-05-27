@@ -3,7 +3,7 @@
 # Here are some commonly used escape sequences in Python:
 # \n - Newline: Moves the cursor to the next line.
 # \t - Tab: Inserts a tab space.
-# \\ - Backslash: Inserts a backslash character.   
+# \\ - Backslash: Inserts a backslash character.    
 # \' - Single Quote: Inserts a single quote character.
 # \" - Double Quote: Inserts a double quote character. 
 a = "Abhishek is a good boy \nbut he is not a good student"
