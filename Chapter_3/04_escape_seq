@@ -1,0 +1,28 @@
+# Escape Sequences in Python
+# Escape sequences are special characters that are used to represent certain characters in a string. They are used to insert characters that are not easily typed on a keyboard, such as newlines, tabs, and quotes. Escape sequences start with a backslash (\) followed by a character.
+# Here are some commonly used escape sequences in Python:
+# \n - Newline: Moves the cursor to the next line.
+# \t - Tab: Inserts a tab space.
+# \\ - Backslash: Inserts a backslash character.
+# \' - Single Quote: Inserts a single quote character.
+# \" - Double Quote: Inserts a double quote character.
+a = "Abhishek is a good boy \nbut he is not a good student"
+
+print(a)
+# \n is used to create a new line in the string
+
+b = "Abhishek is\ta good boy"
+print(b)
+# \t is used to create a tab space in the string
+
+c = "Abhishek is a good\"boy\""
+print(c)
+# \" is used to create a double quote in the string
+
+d = "Abhishek is a good\'boy\'"
+print(d)
+# \' is used to create a single quote in the string
+
+e = "Abhishek is a good\\boy"
+print(e)
+# \\ is used to create a backslash in the string
