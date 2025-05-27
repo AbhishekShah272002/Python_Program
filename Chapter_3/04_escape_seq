@@ -5,7 +5,7 @@
 # \t - Tab: Inserts a tab space.
 # \\ - Backslash: Inserts a backslash character.
 # \' - Single Quote: Inserts a single quote character.
-# \" - Double Quote: Inserts a double quote character.
+# \" - Double Quote: Inserts a double quote character. 
 a = "Abhishek is a good boy \nbut he is not a good student"
 
 print(a)
