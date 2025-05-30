@@ -5,5 +5,5 @@ name = input("Enter your name: ")
 print("Good Morning", name)
 print(f"Good Afternoon, {name}")
   
- 
+  
  
