@@ -1,0 +1,6 @@
+# This is a simple program that takes a user's name as input and prints a greeting message.
+# It demonstrates the use of input() function and formatted strings in Python.
+name = input("Enter your name: ")
+
+print("Good Morning", name)
+print(f"Good Afternoon, {name}")
