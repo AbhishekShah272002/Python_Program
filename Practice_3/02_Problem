@@ -1,0 +1,11 @@
+# Problem: Write a program that replaces the placeholders in a string with user input.
+# The program should take a name and a date as input from the user and replace the placeholders <|Name|> and <|Date|> in the string with the provided values.
+letter = '''Dear <|Name|>,
+            you are selected!
+              <|Date|>'''
+name = input("Enter your name: ")
+date = input("Enter date: ")
+letter = letter.replace("<|Name|>", name)
+letter = letter.replace("<|Date|>", date)
+print(letter)
+# This is a multi-line string that contains placeholders <|Name|> and <|Date|>.
