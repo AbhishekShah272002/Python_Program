@@ -7,3 +7,4 @@ print(name.find("a"))
 print(name.find("A"))
 print(name.find("good"))
  
+ 
