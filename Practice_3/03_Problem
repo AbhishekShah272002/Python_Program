@@ -1,1 +1,8 @@
-adsw
+# Problem: Find the first occurrence of a substring in a string.
+# The program should take a string and a substring as input from the user and find the first occurrence of the substring in the string.
+name = "Abhi is a good boy"
+print(name.find(" ")) # found
+print(name.find("  ")) # not found
+print(name.find("a"))
+print(name.find("A"))
+print(name.find("good"))
