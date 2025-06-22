@@ -1,0 +1,10 @@
+# Problem: Create a set and add different types of elements to it. Print the set and its length.
+# This program creates a set and adds different types of elements to it. The program will print the set and its length.
+# The set will not allow duplicate elements.
+s = set()
+s.add(20) # Adding an integer to the set
+s.add(20.0) # Adding a float to the set
+s.add("20") # Adding a string to the set
+
+print(s) # Printing the set
+print(len(s)) # Printing the length of the set
