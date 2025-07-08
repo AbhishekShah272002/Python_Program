@@ -1,0 +1,7 @@
+# Problem: Write a program to print the length of the string and also print the string itself.
+letter = "Good Moring World ! \tHow are you ?\n I hope you all are good"
+#\n is for new line
+#\t is for tab space
+# print(letter)
+print(letter)
+print("Length of the letter is: ", len(letter))
