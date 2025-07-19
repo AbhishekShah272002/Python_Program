@@ -2,7 +2,7 @@
 # A list is a collection of items in a particular order.
 # Lists are mutable, meaning they can be changed after creation.
 # Lists are created using square brackets [] and can contain any data type.
-# Lists can also contain other lists, tuples, or any other data type.
+# Lists can also contain other lists, tuples, or any other data type. 
 friends = ["Alice", 5, 34.05, "Bob", "Charlie", "David"]
 print(friends)
 print(friends[0])  # First element  
