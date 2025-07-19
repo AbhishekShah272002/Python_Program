@@ -6,7 +6,7 @@
 friends = ["Alice", 5, 34.05, "Bob", "Charlie", "David"]
 print(friends)
 print(friends[0])  # First element
-print(friends[1])  # Second element
+print(friends[1])  # Second element 
 friends[0] = "Alex"  # Change first element
 print(friends)  # First element after change
 print(friends[0:3])  # First three elements
