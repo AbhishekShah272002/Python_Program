@@ -12,3 +12,4 @@ print(friends)  # First element after change
 print(friends[0:3])  # First three elements
 print(friends[1:4])  # Second to fourth elements
 print(friends[1:])  # From second to end 
+ 
