@@ -4,7 +4,7 @@
 # List Methods
 friends = ["Alice", 5, 34.05, "Bob", "Charlie", "David"]
 
-print(friends)
+print(friends) 
 
 friends.append("Eve")  # Add "Eve" to the end of the list
 print(friends)  # List after appending "Eve"
