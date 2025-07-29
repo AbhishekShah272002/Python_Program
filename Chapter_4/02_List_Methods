@@ -1,0 +1,36 @@
+# List Methods
+# List methods are functions that can be applied to lists to perform various operations.
+# Some common list methods include append(), insert(), remove(), pop(), sort(), reverse(), and clear().
+# List Methods
+friends = ["Alice", 5, 34.05, "Bob", "Charlie", "David"]
+
+print(friends)
+
+friends.append("Eve")  # Add "Eve" to the end of the list
+print(friends)  # List after appending "Eve"
+
+print(friends[0])  # First element 
+print(friends[1:4])  # Second to fourth elements  
+
+l1 = [1, 8, 3]
+l1.append(4)  # Add 4 to the end of the list
+print(l1)  # List after appending 4
+l1.sort()  # Sort the list in ascending order
+print(l1)  # Sorted list
+l1.reverse()  # Reverse the list
+print(l1)  # Reversed list
+l1.insert(1, 2)  # Insert 2 at index 1
+print(l1)  # List after inserting 2 at index 1
+l1.remove(8)  # Remove the first occurrence of 8
+print(l1)  # List after removing 8
+l1.pop(2)  # Remove the element at index 2
+print(l1)  # List after popping the element at index 2
+l1.insert(3, 9)  # Insert 9 at index 3
+print(l1)  # List after inserting 9 at index 3
+l1.extend([7, 6])  # Extend the list with [7, 6]
+print(l1)  # List after extending with [7, 6]
+print(l1.pop(3))  # Pop the element at index 3 and print it
+l1.remove(7)  # Remove the first occurrence of 7
+print(l1)  # List after removing 7
+l1.clear()  # Clear the list
+print(l1)  # List after clearing it
