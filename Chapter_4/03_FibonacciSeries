@@ -9,4 +9,4 @@ def fibonacci(n):
 # Example: print Fibonacci series up to 10 terms
 n = 10
 fibonacci(n)
- 
+
