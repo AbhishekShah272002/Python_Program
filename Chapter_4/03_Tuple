@@ -12,7 +12,7 @@ single_element_tuple = (1,)  # Note the comma
 print(type(single_element_tuple))  # <class 'tuple'>  
 
 a = (1) # This is not a tuple, it's just an integer 
-print(type(a))  # <class 'tuple'>
+print(type(a))  # <class 'tuple'> 
 
 a = (1,)  # This is a tuple with one element
 print(type(a))  # <class 'tuple'>
