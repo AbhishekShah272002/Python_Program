@@ -6,7 +6,7 @@
 # Tuples are often used to group related data together.
 # Tuples can be used as keys in dictionaries, while lists cannot.
 empty_tuple = () # Empty tuple
-print(type(empty_tuple))  # <class 'tuple'>
+print(type(empty_tuple))  # <class 'tuple'> 
 # Tuple with one element
 single_element_tuple = (1,)  # Note the comma 
 print(type(single_element_tuple))  # <class 'tuple'> 
