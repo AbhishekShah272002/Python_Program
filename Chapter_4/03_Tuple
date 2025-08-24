@@ -1,0 +1,26 @@
+# Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+# Tuples are written with round brackets.
+# Tuples are immutable, meaning they cannot be changed after creation.
+# Tuples are created using parentheses () and can contain any data type.
+# Tuples can also contain other tuples, lists, or any other data type.
+# Tuples are often used to group related data together.
+# Tuples can be used as keys in dictionaries, while lists cannot.
+empty_tuple = () # Empty tuple
+print(type(empty_tuple))  # <class 'tuple'>
+# Tuple with one element
+single_element_tuple = (1,)  # Note the comma
+print(type(single_element_tuple))  # <class 'tuple'>
+
+a = (1) # This is not a tuple, it's just an integer
+print(type(a))  # <class 'tuple'>
+
+a = (1,)  # This is a tuple with one element
+print(type(a))  # <class 'tuple'>
+
+b = (1, 2, 3)  # This is a tuple with three elements
+print(type(b))  # <class 'tuple'>
+
+value = (1, 2, 3, False, "Hello", 3.14, (1, 2, 3), [1, 2, 3])
+print(value)  # (1, 2, 3, False, 'Hello', 3.14, (1, 2, 3), [1, 2, 3])
+#tuple is immutable, so we cannot change the value of a tuple after it is created
+# value[0] = 10  # This will raise a TypeError: 'tuple' object does not support item assignment
