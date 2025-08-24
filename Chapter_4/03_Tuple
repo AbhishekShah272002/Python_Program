@@ -8,7 +8,7 @@
 empty_tuple = () # Empty tuple
 print(type(empty_tuple))  # <class 'tuple'>
 # Tuple with one element
-single_element_tuple = (1,)  # Note the comma
+single_element_tuple = (1,)  # Note the comma 
 print(type(single_element_tuple))  # <class 'tuple'> 
 
 a = (1) # This is not a tuple, it's just an integer 
