@@ -12,3 +12,4 @@ stack.append(9)
 stack.append(10)
 
 print(stack)
+
