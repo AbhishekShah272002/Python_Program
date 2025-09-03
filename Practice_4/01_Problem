@@ -5,3 +5,7 @@ items2 = { }
 items2["Key1"] = 1
 items2["Key2"] = 2
 items2["key3"] = 3
+print(items2)
+
+items2["key2"] = "two"
+print(items2)
