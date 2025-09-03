@@ -10,4 +10,5 @@ print(items2)
 items2["key2"] = "two"
 print(items2) 
 
- 
+for key, value in items2.items():
+print("Key: ", key,"Value: ",value)
