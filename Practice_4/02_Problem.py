@@ -7,7 +7,7 @@ return (num * power(num, pwr-1))
 def factorial(num):
 if num == 0:
   return 1
-  else
+  else 
   return num * factorial(num - 1)
 
 print("5 to the power of 3 is {power(5, 3)}")
