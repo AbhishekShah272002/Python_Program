@@ -3,7 +3,7 @@ items = [6, 20, 8, 19, 56, 23, 87, 41, 49, 53]
 def mergesort(dataset):
   if len(dataset) > 1:
     mid = len(dataset)
-    leftarr = dataset[:mid]
+    leftarr = dataset[:mid] 
     rightarr = dataseet[mid:]
 
 mergesort(leftarr)
