@@ -5,7 +5,7 @@ def mergesort(dataset):
     mid = len(dataset)
     leftarr = dataset[:mid] 
     rightarr = dataseet[mid:]
-
+ 
 mergesort(leftarr)
 mergesort(rightarr)
 
