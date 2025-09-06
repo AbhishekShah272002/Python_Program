@@ -2,7 +2,7 @@ items = [20, 6, 8, 53, 56, 23, 87, 41, 49, 19]
 
 def quickSort(dataset, first, last):
   if first < last:
-
+ 
     pivotIdx = partition(dataset, first, last)
 
 quickSort(dataset, first, pivotId-1)
