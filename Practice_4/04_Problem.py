@@ -7,7 +7,7 @@ def quickSort(dataset, first, last):
 
 quickSort(dataset, first, pivotId-1)
 quickSort(dataset, pivotIdx+1, last)
-
+ 
 def partition(datavalues, first, last):
   pivotvalue = datavalues[fist]
 
