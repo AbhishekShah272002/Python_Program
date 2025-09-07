@@ -7,5 +7,5 @@ if item in counter.keys():
 counter[item] += 1
 
 else:
-counter[item] = 1
+counter[item] = 1 
 print(counter)
