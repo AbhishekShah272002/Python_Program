@@ -1,7 +1,7 @@
 user_preferences = {
   "language": "English,
   "font_size": "14px",
-"timezone": "USD",
+"timezone": "USD", 
   "currency": False,
   "volume_level": 80,
   "date_formate": "MM/DD/YYYY"
