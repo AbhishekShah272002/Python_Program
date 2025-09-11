@@ -12,7 +12,7 @@ user_preferences["language"] = "Spanish"
 
 user_perferences["volume_level"] = 50
 user_preferences["highlight_color"] = "yellow"
-
+ 
 del user_preferences["currency"]
 removed_item = user_preferences.pop("date_formate", "N/A")
 
