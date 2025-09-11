@@ -6,7 +6,7 @@ user_preferences = {
   "enable_location": False,
   "volume_level": 80,
   "date_format": "MM/DD/YYYY"
-} 
+}  
 
 user_preferences["language"] = "Spanish"
 
