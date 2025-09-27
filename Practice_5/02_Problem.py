@@ -6,4 +6,3 @@ print(sorted(student_grades))
 
 print(sorted(student_grades, key = lambda [1], reverse = True))
  
- 
