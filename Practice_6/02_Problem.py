@@ -31,4 +31,9 @@ if "Dessert" in lunch_menu:
   print("Dessert is there")
 else:
   print("Dessert is not there") 
-  
+
+print("Tuple slice using positive indices:",lunch_menu[1:5])
+print("Tuple slice using negative indices:",lunch_menu[-5:-1])
+
+luch_menu[0]=""
+print(lunch_menu)
