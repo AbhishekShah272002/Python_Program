@@ -11,4 +11,3 @@ print("Concatenating tuples:")
 
 sample_tuple=sample_tuple+sample_tuple1
 print(sample_tuple) 
-
