@@ -19,7 +19,7 @@ sample_tuple = sample_tuple+("F", "G")
 print(Sample_tuple)
 
 print("Iterating the tuple using range()")
-for index in range(0, len(lunch_menu)):  
+for index in range(0, len(lunch_menu)): 
   print(lunch_menu[index])
 
 print("Iterating the tuple using keyword in")
