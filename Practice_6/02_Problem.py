@@ -25,3 +25,10 @@ for index in range(0, len(lunch_menu)):
 print("Iterating the tuple using keyword in")
 for food_type in lunch_menu:
   print(food_type)
+
+print("Searching for an element in tuple")
+if "Dessert" in lunch_menu:
+  print("Dessert is there")
+else:
+  print("Dessert is not there")
+  
