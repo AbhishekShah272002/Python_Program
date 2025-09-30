@@ -14,3 +14,9 @@ print(pancard_number[index])
 print("Iterating the string using keyword in ")
 for value in pancard_number:
   print(value)
+
+print("Searching for  character in string")
+if "Z" in pancard_number:
+  print("Character is not present")
+
+
