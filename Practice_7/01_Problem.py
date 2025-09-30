@@ -7,4 +7,10 @@ name2 = "card"
 name = name1+name2
 peint(name)
 
-print("Iterating the string using range()") 
+print("Iterating the string using range()")
+for index in range(0,len(pancard_number));
+print(pancard_number[index])
+
+print("Iterating the string using keyword in ")
+for value in pancard_number:
+  print(value)
