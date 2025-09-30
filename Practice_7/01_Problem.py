@@ -24,5 +24,7 @@ else:
 print("The number is the PAN card number:", pancard_number[5:9])
 print("Last but one 3 characters in the PAN card:", pancard_number[-4:-1])
 
+panxard_number[2]="A"
+print(pancard_number)
 
 
