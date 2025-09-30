@@ -18,5 +18,11 @@ for value in pancard_number:
 print("Searching for  character in string")
 if "Z" in pancard_number:
   print("Character is not present")
+else:
+  print("Character is not present")
+
+print("The number is the PAN card number:", pancard_number[5:9])
+print("Last but one 3 characters in the PAN card:", pancard_number[-4:-1])
+
 
 
