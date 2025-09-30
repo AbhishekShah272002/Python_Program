@@ -7,4 +7,4 @@ name2 = "card"
 name = name1+name2
 peint(name)
 
-print("Iterating the string using range()")
+print("Iterating the string using range()") 
