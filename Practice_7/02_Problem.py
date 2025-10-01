@@ -8,11 +8,11 @@ name = name1 + name2
 print(name)
  
 print("Iterating the string using range()")
-for index in range (0,len(pancrd_number)):
-  print(pancrd_number[index])
+for index in range (0,len(pancard_number)):
+  print(pancard_number[index])
 
 print("Iterating the string using keyword in")
-for value in pancrd_number:
+for value in pancard_number:
   print(value)
 
 print("Searching for a character in string")
