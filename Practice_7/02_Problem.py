@@ -20,3 +20,7 @@ if "Z" in pancard_number:
   print("Charcter is not present")
 
 print("The numbers isn the PAN card number:", pancard_Number[5:9])
+print("Last but one 3 charcters in the PAN card:",pancard_number[-4:-1])
+
+pancard_number[2] = "A"
+print(pancard_
