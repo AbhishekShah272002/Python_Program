@@ -6,7 +6,7 @@ name1 = "PAN "
 name2 = "card"
 name = name1 + name2
 print(name)
-
+ 
 print("Iterating the string using range()")
 for index in range (0,len(pancrd_number)):
   print(pancrd_number[index])
