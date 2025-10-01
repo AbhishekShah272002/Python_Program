@@ -5,7 +5,7 @@ print("Length of the PAN card number: ", len(pancard_number))
 name1 = "PAN"
 name2 = "card"
 name = name1+name2
-peint(name)
+peint(name) 
 
 print("Iterating the string using range()")
 for index in range(0,len(pancard_number));
