@@ -11,7 +11,7 @@ print("Iterating the string using range()")
 for index in range(0,len(pancard_number));
 print(pancard_number[index])
 
-print("Iterating the string using keyword in ")
+print("Iterating the string using keyword in ") 
 for value in pancard_number:
   print(value)
 
