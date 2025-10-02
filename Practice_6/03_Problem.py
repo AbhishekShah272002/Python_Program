@@ -11,7 +11,7 @@ if(boarding_call.endswith("A.M.")):
 
 a = boarding_call.split(" ")
 for i in a:
-  if(i.isdigit()):
+  if(i.isdigit()): 
     print("Flight Number is specified to the passengers.")
 
 print("Total number of times flight service name is specified in the boarding call:",boarding_call.count("AI"))
