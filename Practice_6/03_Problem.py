@@ -15,3 +15,9 @@ for i in a:
     print("Flight Number is specified to the passengers.")
 
 print("Total number of times flight service name is specified in the boarding call:",boarding_call.count("AI"))
+
+message = "Thank you all..Have a nice journey!"
+
+print(message.upper())
+
+print(message.lower())
