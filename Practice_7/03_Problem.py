@@ -11,3 +11,8 @@ check_in(25,boarding_pass)
 print("boarding_pass after after function call:", boarding_pass)
 print("boarding_pass, a string is immutable")
 print("-------------------------------------------")
+
+passenger_seat = ["Jack","NA"]
+print("passenger_seat before function call:", passenger_seat)
+upadte_seat(passenger_seat)
+
