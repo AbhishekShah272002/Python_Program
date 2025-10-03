@@ -15,4 +15,5 @@ print("-------------------------------------------")
 passenger_seat = ["Jack","NA"]
 print("passenger_seat before function call:", passenger_seat)
 upadte_seat(passenger_seat)
-
+print("Passenger_seat after function call:", passenger_seat)
+print("passenger_seat, a list is mutable")
