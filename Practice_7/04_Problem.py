@@ -17,3 +17,10 @@ def display3(flight_number, flight_make = "Boeing", seating_capacity = 150):
   print("Flight Number:", flight_number)
   print("Flight Make:", flight_make)
   print("Seating Capacity:" seating_capacity)
+
+-int("-----------------------------------------------")
+-int("code-3: default arguments")
+isplay3("AI789", "Eagle")
+
+def display4(passenger_name, *baggage_tuple):
+  print("Passenger name:", passenger_name)
