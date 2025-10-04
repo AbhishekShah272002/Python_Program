@@ -24,3 +24,11 @@ isplay3("AI789", "Eagle")
 
 def display4(passenger_name, *baggage_tuple):
   print("Passenger name:", passenger_name)
+  total_wt = 0
+  for baggage_wt in baggage_tuple:
+    total_wt += baggage_wt
+print("Total baggage weight in kg:", total_wt)
+
+print("---------------------------------------------")
+print("code-4: variable argument count")
+display4("Jack",12,8,5)
