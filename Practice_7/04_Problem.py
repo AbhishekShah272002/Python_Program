@@ -9,4 +9,4 @@ def display2(flight_number, seating_capacity):
   print("Flight Number:", flight_number)
   print("Seating Capacity:", seating_capacity)
 
-
+print("----------------------------------------------")
