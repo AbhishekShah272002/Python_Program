@@ -7,7 +7,7 @@ display1("AI789",200)
 
 def display2(flight_number, seating_capacity):
   print("Flight Number:", flight_number)
-  print("Seating Capacity:", seating_capacity)
+  print("Seating Capacity:", seating_capacity) 
 
 print("----------------------------------------------")
 print("code-2: keyword arguments")
