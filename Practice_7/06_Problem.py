@@ -17,5 +17,6 @@ def useless_function_to_prove_a_point():
   print("Extra airline now allows baggage limit till",wt_limit,"kgs")
 
 print("This airline allow baggage limit till",wt_limit,"kgs")
-
-  
+print("Pay the extra baggage charge of",baggage_check(35),"rupees")
+print("Extra baggage:",extra_baggage)
+print("Extra baggage charge:",extra_baggage_charge)
