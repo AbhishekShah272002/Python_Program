@@ -13,4 +13,5 @@ def update_baggage_limit(new_wt_limit):
 
 print("This airline allow baggage limit till",wt_limit,"kgs")
 print("Pay the extra baggage charge of",baggage_check(35),"rupees")
-
+update_baggage_limit(45)
+print("Pay the extra baggage charge of",baggage_check(35),"rupees")
