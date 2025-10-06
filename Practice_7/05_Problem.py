@@ -9,4 +9,6 @@ def baggage_check(baggage_wt):
   
 def update_baggage_limit(new_wt_limit):
   wt_limit=new_wt_limit
-  print("This airline now
+  print("This airline now allows baggage limit till",wt_limit,"kgs")
+
+print("This airline allow baggage limit till",wt_limit,"kgs")
