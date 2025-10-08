@@ -9,7 +9,7 @@ def baggage_check(baggage_wt):
 
 def update_baggage_limit(new_wt_limit):
   global wt_limit
-  wt_limit=new_limit
+  wt_limit=new_limit 
   print("This airline now allows baggage limit till",wt_limit,"kgs")
 
 def useless_function_to_prove_a_point():
