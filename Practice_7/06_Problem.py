@@ -7,7 +7,7 @@ def baggage_check(baggage_wt):
     extra_baggage_charge=extra_baggage*100
   return extra_baggage_charge 
   
-def update_baggage_limit(new_wt_limit):  
+def update_baggage_limit(new_wt_limit):   
   global wt_limit 
   wt_limit=new_limit  
   print("This airline now allows baggage limit till",wt_limit,"kgs")
