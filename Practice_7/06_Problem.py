@@ -5,7 +5,7 @@ def baggage_check(baggage_wt):
   if not(baggage_wt>=0 and baggage_wt<=wt_limit):
     extra_baggage=baggage_wt-wt_limit 
     extra_baggage_charge=extra_baggage*100 
-  return extra_baggage_charge  
+  return extra_baggage_charge   
     
 def update_baggage_limit(new_wt_limit):   
   global wt_limit   
