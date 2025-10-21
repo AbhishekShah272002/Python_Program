@@ -1,4 +1,4 @@
-  wt_limit = 30
+   wt_limit = 30
 
 def baggage_check(baggage_wt):
   extra_baggage_charge=0
