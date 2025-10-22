@@ -8,6 +8,6 @@ if(airline=="AI"):
     elif(airline=="BA"):
       max_weight=35
       print(max_weight)
-
+ 
 else:
 print("Invalid airline")
