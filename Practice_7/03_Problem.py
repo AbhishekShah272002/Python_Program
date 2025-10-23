@@ -4,7 +4,7 @@ def check_in(baggage,bording_pass):
 
 def update_seat(seat_list): 
   seat_list[1]=25  
- 
+  
 boarding_pass = "Not Issued"
 print("boarding_pass before function call:", boarding_pass)  
 check_in(25,boarding_pass)
