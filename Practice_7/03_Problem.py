@@ -1,7 +1,7 @@
 def check_in(baggage,bording_pass):
   if(baggage>=1 and baggage<=30):
     boarding_pass = "Issued"
-
+ 
 def update_seat(seat_list): 
   seat_list[1]=25  
   
