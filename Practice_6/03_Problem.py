@@ -21,4 +21,3 @@ message = "Thank you all..Have a nice journey!"
 print(message.upper())
 
 print(message.lower())
-
