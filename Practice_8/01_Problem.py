@@ -6,7 +6,7 @@ if(airline=="AI"):
     max_wight=28  
     print(max_weight)
     elif(airline=="BA"):  
-      max_weight=35
+      max_weight=35 
       print(max_weight)  
  
 else:
