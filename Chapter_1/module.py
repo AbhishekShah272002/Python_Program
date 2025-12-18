@@ -10,4 +10,5 @@ import pyjokes
 """
 # This is a simple script to print a joke using the pyjokes module"""
 joke = pyjokes.get_joke()
+
 print(joke)
