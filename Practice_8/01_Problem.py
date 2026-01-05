@@ -12,3 +12,4 @@ if(airline=="AI"):
 else:
 print("Invalid airline")
  
+ 
