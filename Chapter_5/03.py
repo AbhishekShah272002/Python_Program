@@ -3,5 +3,5 @@
 text = input("Enter a String: ")
 print("You entered: " + text)
 print("Is the entered string alphabetic? " + str(text.isalpha()))
-print(".....Program Ended.....")  
+print(".....Program Ended.....") 
 
