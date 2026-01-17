@@ -1,2 +1,4 @@
 from datetime import datetime
-today = 
+today = datetime.now()
+
+print('Today: ' + str(today))
